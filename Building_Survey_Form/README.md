@@ -1,1 +1,1 @@
-using HTML to build a surey form
+using HTML to build a survey form
